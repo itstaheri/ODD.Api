@@ -1,0 +1,15 @@
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.csproj.AssemblyReference.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.AssemblyInfoInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.AssemblyInfo.cs
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.csproj.CoreCompileInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\bin\Debug\net7.0\ODD.Api.Application.Contract.deps.json
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\bin\Debug\net7.0\ODD.Api.Application.Contract.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\bin\Debug\net7.0\ODD.Api.Application.Contract.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\bin\Debug\net7.0\ODD.Api.Common.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\bin\Debug\net7.0\ODD.Api.Common.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.csproj.CopyComplete
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\refint\ODD.Api.Application.Contract.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ODD.Api.Application.Contract.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Application.Contract\obj\Debug\net7.0\ref\ODD.Api.Application.Contract.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ODD.Api.Application.Contract/1.0.0": {
+        "dependencies": {
+          "ODD.Api.Common": "1.0.0"
+        },
+        "runtime": {
+          "ODD.Api.Application.Contract.dll": {}
+        }
+      },
+      "ODD.Api.Common/1.0.0": {
+        "runtime": {
+          "ODD.Api.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ODD.Api.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ODD.Api.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

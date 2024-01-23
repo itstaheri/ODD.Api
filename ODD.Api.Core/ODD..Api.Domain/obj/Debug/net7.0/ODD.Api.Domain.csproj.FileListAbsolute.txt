@@ -1,0 +1,12 @@
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\bin\Debug\net7.0\ODD.Api.Domain.deps.json
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\bin\Debug\net7.0\ODD.Api.Domain.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\bin\Debug\net7.0\ODD.Api.Domain.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.csproj.AssemblyReference.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.AssemblyInfoInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.AssemblyInfo.cs
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\refint\ODD.Api.Domain.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ODD.Api.Domain.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\ODD..Api.Domain\obj\Debug\net7.0\ref\ODD.Api.Domain.dll

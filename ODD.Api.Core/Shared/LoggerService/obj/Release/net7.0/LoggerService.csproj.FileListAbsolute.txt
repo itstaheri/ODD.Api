@@ -1,0 +1,24 @@
+D:\LoggerService\LoggerService\bin\Release\net7.0\LoggerService.deps.json
+D:\LoggerService\LoggerService\bin\Release\net7.0\LoggerService.dll
+D:\LoggerService\LoggerService\bin\Release\net7.0\LoggerService.pdb
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.AssemblyInfo.cs
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.dll
+D:\LoggerService\LoggerService\obj\Release\net7.0\refint\LoggerService.dll
+D:\LoggerService\LoggerService\obj\Release\net7.0\LoggerService.pdb
+D:\LoggerService\LoggerService\obj\Release\net7.0\ref\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Release\net7.0\LoggerService.deps.json
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Release\net7.0\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Release\net7.0\LoggerService.pdb
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.AssemblyInfo.cs
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\refint\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\LoggerService.pdb
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Release\net7.0\ref\LoggerService.dll

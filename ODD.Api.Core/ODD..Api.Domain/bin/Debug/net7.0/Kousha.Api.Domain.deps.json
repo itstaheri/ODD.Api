@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Kousha.Api.Domain/1.0.0": {
+        "dependencies": {
+          "Kousha.Api.Common": "1.0.0"
+        },
+        "runtime": {
+          "Kousha.Api.Domain.dll": {}
+        }
+      },
+      "Kousha.Api.Common/1.0.0": {
+        "runtime": {
+          "Kousha.Api.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kousha.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kousha.Api.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

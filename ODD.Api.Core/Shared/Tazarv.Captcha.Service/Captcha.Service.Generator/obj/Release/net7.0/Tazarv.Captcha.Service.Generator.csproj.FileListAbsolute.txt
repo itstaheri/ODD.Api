@@ -1,0 +1,24 @@
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.deps.json
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.dll
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.pdb
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.csproj.AssemblyReference.cache
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.AssemblyInfoInputs.cache
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.AssemblyInfo.cs
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.csproj.CoreCompileInputs.cache
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.dll
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\refint\Tazarv.Captcha.Service.Generator.dll
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.pdb
+D:\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\ref\Tazarv.Captcha.Service.Generator.dll
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.deps.json
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.dll
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\bin\Release\net7.0\Tazarv.Captcha.Service.Generator.pdb
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.csproj.AssemblyReference.cache
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.AssemblyInfoInputs.cache
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.AssemblyInfo.cs
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.csproj.CoreCompileInputs.cache
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.dll
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\refint\Tazarv.Captcha.Service.Generator.dll
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\Tazarv.Captcha.Service.Generator.pdb
+D:\Project\BPMS\Asp.net library\Tazarv.Captcha.Service\Tazarv.Captcha.Service.Generator\obj\Release\net7.0\ref\Tazarv.Captcha.Service.Generator.dll

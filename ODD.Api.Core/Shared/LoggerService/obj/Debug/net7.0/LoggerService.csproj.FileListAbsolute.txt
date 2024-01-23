@@ -1,0 +1,48 @@
+D:\LoggerService\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\LoggerService\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\LoggerService\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\LoggerService\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\LoggerService\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\LoggerService\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Project\BPMS\Asp.net library\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+D:\Projects\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Projects\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Projects\Asp.net library\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Projects\Asp.net library\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\bin\Debug\net7.0\LoggerService.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+D:\Projects\ODD.Api.Core\ODD.Api.Core\Shared\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
